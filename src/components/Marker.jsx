@@ -1,11 +1,5 @@
 import React from 'react';
 
-function Marker() {
-  return (
-    <div>
-      <div>MARKER!</div>
-    </div>
-  );
-}
+const Marker = () => <div className="marker">&nbsp;</div>;
 
 export default Marker;

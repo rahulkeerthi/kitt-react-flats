@@ -1,4 +1,4 @@
-const flats = [
+const showFlats = [
   {
     name: "Charm at the Steps of the Sacre Coeur/Montmartre",
     imageUrl: "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
@@ -49,4 +49,4 @@ const flats = [
   }
 ];
 
-export default flats;
+export default showFlats;
